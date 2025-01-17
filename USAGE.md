@@ -31,7 +31,7 @@ If you don't want to import the project, you can always use the command line int
 
 You may specify multiple transformers, and they will be applied in the order given. Order does matter as sometimes one transformation depends on another not being present.
 
-If you wish to use one of the default transformers, then you may remove the `com.javadeobfuscator.deobfuscator.transformers` prefix.
+If you wish to use one of the default transformers, then you may remove the `com.diaoling.deobfuscator.transformers` prefix.
 
 Here is a sample `config.yaml`:
 

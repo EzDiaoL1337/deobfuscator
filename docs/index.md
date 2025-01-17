@@ -53,7 +53,7 @@ SkidSuite2 (dead, some forks are listed [here](https://github.com/tetratec/SkidS
 
 ## List of Transformers
 
-The automagic detection should be able to recommend the transformers you'll need to use. However, it may not be up to date. If you're familiar with Java reverse engineering, feel free to [take a look around](https://github.com/java-deobfuscator/deobfuscator/tree/master/src/main/java/com/javadeobfuscator/deobfuscator/transformers) and use what you need. 
+The automagic detection should be able to recommend the transformers you'll need to use. However, it may not be up to date. If you're familiar with Java reverse engineering, feel free to [take a look around](https://github.com/java-deobfuscator/deobfuscator/tree/master/src/main/java/com/diaoling/deobfuscator/transformers) and use what you need. 
 
 ## FAQs
 
